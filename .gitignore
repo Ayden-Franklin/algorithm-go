@@ -1,0 +1,17 @@
+.idea
+.idea/
+.DS_Store
+*.log
+.project
+.settings
+target
+*.exe
+*/.tmp
+gen
+generated
+.vscode/
+build
+*.iml
+classes
+bin/
+__debug_bin
